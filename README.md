@@ -1,7 +1,9 @@
 # Storm HDFS
 
-Storm components for interacting with HDFS file systems
-add some support for  ptgoetz's storm-hdfs
+Storm components for interacting with HDFS file systems.
+
+add some support for  ptgoetz's storm-hdfs.
+
 see DailyRotationPolicy, FileFolderByDateNameFormat
 
 
